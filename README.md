@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on upcred.it<br><br>🌱 I’m currently learning NextJS<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me me@siya.digital<br><br>⚡ Fun fact I wrote my first ever line of code at 11 years old
+🔭 I’m currently working on multiple projects<br><br>🌱 I’m currently learning NextJS<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me me@siya.digital<br><br>⚡ Fun fact I wrote my first ever line of code at 11 years old
 
 
 ## 🌐 Socials:
